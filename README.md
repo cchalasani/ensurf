@@ -2,5 +2,3 @@
 
 **TODO: Add description**
 
-## Installation
-
